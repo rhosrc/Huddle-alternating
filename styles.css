@@ -29,10 +29,6 @@ a:hover {
 color: hsl(208, 11%, 55%)
 }
 
-a:visited {
-color: #ffffff;
-}
-
 a {
 text-decoration: none;
 color: #ffffff;
