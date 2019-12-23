@@ -164,6 +164,7 @@ z-index: -1;
   margin-right: 15%;
   margin-top: 0;
   width: 25%;
+  color: #ffffff;
 }
 
 .footer2 {
@@ -173,6 +174,7 @@ z-index: -1;
   column-count: 2;
   margin-top: 0;
   column-gap: 50px;
+  color: #ffffff;
 }
 
 .footer3 {
@@ -181,6 +183,7 @@ z-index: -1;
   margin-right: 0;
   margin-top: 0;
   width: 10%;
+  color: #ffffff;
 }
 
 .icon {
